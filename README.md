@@ -1,14 +1,17 @@
 # Computer Science and Programming - Version 4.0
 
-Please read the [FAQ](./faq.md) and note that there are [Tier Project Ideas](./project_ideas.md) to help you select projects.
+**Note:**  I forked and edited this Guide from P1xt to keep track of my own progress.
+To get a full overview of the original guide, check it out over at P1xt: [P1xt/p1xt-guides].
 
-**Note:** Prior guides have been deprecated but are still available [here](./deprecated/README.md)
+
+[FAQ](./faq.md)
+
+
 
 ## Table of Contents
 
 ### Junior developer
-
-If you want to develop the skills necessary to be 'job ready' for a junior developer position - complete tier X, 0, and 1.
+(complete tier X, 0, and 1)
 
 - [tier X - Math Prep](#tier-x---math-prep)
 - [tier X - Programming Prep Prep](#tier-x---programming-prep-prep)
@@ -16,22 +19,18 @@ If you want to develop the skills necessary to be 'job ready' for a junior devel
 - [tier 1 - Getting Started](#tier-1---getting-started)
 
 ### Intermediate developer
-
-If you want to develop the skills necessary to move beyond junior to intermediate developer - once you've finished tiers X, 0 and 1, proceed to complete tiers 2 and 3.
+(tiers 2 and 3)
 
 - [tier 2 - Develop More Expertise](#tier-2---develop-more-expertise)
 - [tier 3 - Add More Rigor](#tier-3---add-more-rigor)
 
 ### Advanced developer
-
-If you want to develop the skills necessary to move beyond intermediate to advanced developer - once you've finished tiers X, 0, 1, 2, and 3, proceed to complete tiers 4 and 5.
+(tiers 4 and 5)
 
 - [tier 4 - Polish the Rough Edges](#tier-4---polish-the-rough-edges)
 - [tier 5 - Specialize](#tier-5---specialize)
 
 ### Specializations
-
-Each tier has a 'specialization' based capstone which involves further study and extensive practice in an area of your choosing. [Web Development - Fullstack Bootcamp - App Academy Open](./specializations/app_academy_open.md) is highly recommended (but not required) as the first specialization. Beyond that, feel free to complete a different specialization each tier, or dive deeply into a specialization by selecting it during multiple tiers to explore it in greater detail and further develop your specialized profile.
 
 - [Web Development - Fullstack Bootcamp - App Academy Open](./specializations/app_academy_open.md) (recommended, but not required, first specialization)
 - [Web Development - Deep Dive Into Modern Web Development - Full Stack Open 2020](./specializations/full_stack_open_2020.md)
@@ -45,8 +44,6 @@ Each tier has a 'specialization' based capstone which involves further study and
 
 ### Advanced Specializations
 
-The following specializations rely on knowledge gained in earlier tiers. Additionally, they are typically 'more difficult' or will require more work than those listed above.
-
 - [Computer Science - Algorithms](./specializations/algorithms.md) -Suggested for Tier 2 or later
 - [Computer Science - Advanced Algorithms](./specializations/advanced-algorithms.md) - Computer Science - Algorithms is a pre-requisite
 - [Computer Science - Intensive](./specializations/computer_science.md) - Suggested for Tier 4 or later
@@ -55,9 +52,9 @@ The following specializations rely on knowledge gained in earlier tiers. Additio
 
 ### Tier Programming Projects
 
-Both tiers and specializations will require 'Tier Programming Projects', you are free to select any programming project you want. To help combat the 'but I don't know what I want' roadblock, [Tier Programming Project Ideas](./project_ideas.md) lists a variety of ideas.
+[Tier Programming Project Ideas](./project_ideas.md) lists a variety of ideas.
 
-**Note:** In specializations, the Tier Programming Projects might have extra criteria (such as 'if you're doing a mobile app development specialization your projects must be mobile apps')
+-------------------------------------------------------------------------------------------------------------------------------------
 
 ## Junior developer
 
